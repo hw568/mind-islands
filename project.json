@@ -1,0 +1,75 @@
+{
+  "name": "心之群島：高年級心理學探索",
+  "author": "高年級輔導團隊",
+  "slug": "mind-islands",
+  "audience": "高年級學生（五、六年級）",
+  "courseCount": 6,
+  "courses": [
+    {
+      "id": "island-01",
+      "name": "情緒氣象島",
+      "source": "自編：情緒與壓力"
+    },
+    {
+      "id": "island-02",
+      "name": "自我探索島",
+      "source": "自編：自我概念與成長型思維"
+    },
+    {
+      "id": "island-03",
+      "name": "人我橋樑島",
+      "source": "自編：人際溝通與界線"
+    },
+    {
+      "id": "island-04",
+      "name": "記憶迴廊島",
+      "source": "自編：注意力、記憶與學習策略"
+    },
+    {
+      "id": "island-05",
+      "name": "思考實驗島",
+      "source": "自編：捷思、偏誤與說服"
+    },
+    {
+      "id": "island-06",
+      "name": "心靈守護島",
+      "source": "自編：心理健康與求助"
+    }
+  ],
+  "appearance": {
+    "theme": "custom",
+    "label": "心靈探索",
+    "colors": {
+      "bg": "#f5f7fa",
+      "surface": "#ffffff",
+      "ink": "#1e2a38",
+      "muted": "#5a6b7b",
+      "primary": "#256b7a",
+      "accent": "#b85c42",
+      "water": "#bfd8dd",
+      "mist": "#dce8ec",
+      "night": "#101c33",
+      "grass": "#cfe0d6",
+      "rock": "#afc0c4",
+      "roof": "#7fb3bf",
+      "pink": "#e7c6d8"
+    }
+  },
+  "mascot": {
+    "name": "皮亞傑",
+    "note": "原創 Q 版心靈嚮導，靈感來自皮亞傑的研究概念，不是本人，不代表任何機構。"
+  },
+  "residentCount": 14,
+  "certificate": {
+    "allRead": true,
+    "minimumScore": 75,
+    "worksheetsRequired": false
+  },
+  "publishMaterials": false,
+  "deployment": {
+    "platform": null,
+    "authorized": false,
+    "policy": "先本機確認；僅於使用者主動提出本次發布後部署；歷史授權不沿用"
+  },
+  "contentStatus": "自編教材已完成；內容與互動待本機驗收"
+}

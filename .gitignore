@@ -1,0 +1,8 @@
+# 驗收截圖與測試輸出
+_shots/
+
+# 本機工具
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
